@@ -9,3 +9,6 @@ dist/
 .env
 .venv
 Pipfile
+.ipynb_checkpoints
+*attachments*
+.idea
